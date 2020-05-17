@@ -1,0 +1,3 @@
+enum RoseColor {
+  WHITE, YELLOW, RED, VIOLET, PINK, ORANGE, EBONY, BLUE
+}
